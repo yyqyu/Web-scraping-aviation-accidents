@@ -1,3 +1,14 @@
+安装
+python2.7
+pip install geopy 
+pip install textblob
+pip install nltk==3.1
+
+运行
+python /src/main.py
+
+
+
 # Práctica 1: Web scraping
 
 ## Descripción
