@@ -1,6 +1,6 @@
 安装
 python2.7
-
+apt install -y python-pip
 pip install geopy 
 
 pip install textblob
